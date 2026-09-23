@@ -64,12 +64,30 @@ Rf = 15K *2=30KΩ
 
 
   **CIRCUIT DIAGRAM**
+  <img width="375" height="337" alt="image" src="https://github.com/user-attachments/assets/9489009a-b1d1-46c6-bb4d-1d6140740690" />
+
 
 
   **MODEL GRAPH:**
+  <img width="397" height="192" alt="image" src="https://github.com/user-attachments/assets/7aa50bfb-21d2-4b5a-a3d0-9f99233aa3dc" />
+
 
 
   **TABULATION:**
+  <img width="425" height="170" alt="image" src="https://github.com/user-attachments/assets/548c99ad-df2d-4b4f-bba6-9120780f7dd8" />
+  <img width="485" height="266" alt="image" src="https://github.com/user-attachments/assets/c336d69b-b1e8-41f8-8560-309ae7b238a2" />
+
+  **WEIN**
+  <img width="402" height="352" alt="image" src="https://github.com/user-attachments/assets/4bf94a73-430a-487f-9b57-fe932eb51a5b" />
+  <img width="455" height="191" alt="image" src="https://github.com/user-attachments/assets/75273070-4897-4dcc-835d-ea1726154f02" />
+  <img width="465" height="150" alt="image" src="https://github.com/user-attachments/assets/02948607-5637-4139-9995-a3c6448e2d29" />
+  <img width="485" height="342" alt="image" src="https://github.com/user-attachments/assets/08bb4c6c-9513-4537-a9ba-1576143b72ac" />
+
+
+
+
+
+
  
 
 
